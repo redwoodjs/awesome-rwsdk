@@ -16,6 +16,7 @@ A curated collection of exceptional projects and examples showcasing the power a
 - [Cron Triggers](https://github.com/ahaywood/cron-kitchen)
 - [Realtime Notes](https://github.com/redwoodjs/example-realtime-notes)
 - [Streaming AI Chat](https://github.com/redwoodjs/example-streaming-ai-chat)
+- [Multi-user AI chat](https://github.com/jldec/agents-chat) - Streaming over realtime RSC
 
 ### Authentication
 - [Username and Password](https://github.com/ahaywood/auth-kitchen/tree/main/username-password)
