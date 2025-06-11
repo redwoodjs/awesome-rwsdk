@@ -19,6 +19,7 @@ A curated collection of exceptional projects and examples showcasing the power a
 
 ### Authentication
 - [Username and Password](https://github.com/ahaywood/auth-kitchen/tree/main/username-password)
+- [Better Auth](https://github.com/harshil1712/rwsdk-better-auth-prisma)
 
 ### Forms
 - [Zod](https://github.com/ahaywood/form-kitchen/tree/main/zod)
