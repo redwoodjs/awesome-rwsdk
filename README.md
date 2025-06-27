@@ -21,6 +21,7 @@ A curated collection of exceptional projects and examples showcasing the power a
 ### Authentication
 - [Username and Password](https://github.com/ahaywood/auth-kitchen/tree/main/username-password)
 - [Better Auth](https://github.com/harshil1712/rwsdk-better-auth-prisma)
+- [Clerk](https://github.com/wobsoriano/redwood-clerk)
 
 ### Forms
 - [Zod](https://github.com/ahaywood/form-kitchen/tree/main/zod)
@@ -31,5 +32,3 @@ A curated collection of exceptional projects and examples showcasing the power a
 
 ## Tools
 - [Graft This](https://github.com/ahaywood/graft-this)
-
-
