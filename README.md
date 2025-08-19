@@ -17,9 +17,13 @@ A curated collection of exceptional projects and examples showcasing the power a
 - [Realtime Notes](https://github.com/redwoodjs/example-realtime-notes)
 - [Streaming AI Chat](https://github.com/redwoodjs/example-streaming-ai-chat)
 - [Multi-user AI chat](https://github.com/jldec/agents-chat) - Streaming over realtime RSC
+- [Sanity](https://github.com/ahaywood/example-sanity) - Integrating Sanity (Headless CMS)
+
 
 ### Authentication
 - [Username and Password](https://github.com/ahaywood/auth-kitchen/tree/main/username-password)
+- [Role Based Access](https://github.com/ahaywood/auth-kitchen/tree/main/role-based-access)
+- [Magic Links](https://github.com/ahaywood/auth-kitchen/tree/main/magic-links)
 - [Better Auth](https://github.com/harshil1712/rwsdk-better-auth-prisma)
 - [Clerk](https://github.com/wobsoriano/redwood-clerk)
 
@@ -31,4 +35,5 @@ A curated collection of exceptional projects and examples showcasing the power a
 - [Billable](https://github.com/redwoodjs/example-billable)
 
 ## Tools
-- [Graft This](https://github.com/ahaywood/graft-this)
+- [RWSDK Tools](https://github.com/ahaywood/rwsdk-tools) - Command line tools that make it easy to install Tailwind, shadcn/ui, work with Prisma, create component, page, and layout templates
+- [Windsurf](https://github.com/ahaywood/example-windsurf) - Windsurf Rules and Workflows
