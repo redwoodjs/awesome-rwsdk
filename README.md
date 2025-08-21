@@ -26,6 +26,7 @@ A curated collection of exceptional projects and examples showcasing the power a
 - [Magic Links](https://github.com/ahaywood/auth-kitchen/tree/main/magic-links)
 - [Better Auth](https://github.com/harshil1712/rwsdk-better-auth-prisma)
 - [Clerk](https://github.com/wobsoriano/redwood-clerk)
+- [Kysely Starter](https://github.com/emmett-cc/redwoodsdk-kysley-starter)
 
 ### Forms
 - [Zod](https://github.com/ahaywood/form-kitchen/tree/main/zod)
